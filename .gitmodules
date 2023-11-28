@@ -1,0 +1,6 @@
+[submodule "submodules/ssh-private-key"]
+	path = submodules/ssh-private-key
+	url = https://gitlab.com/gitlab-examples/ssh-private-key
+[submodule "submodules/docker"]
+	path = submodules/docker
+	url = https://gitlab.com/gitlab-examples/docker
