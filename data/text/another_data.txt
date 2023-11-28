@@ -1,1 +1,1 @@
-This is a data file
+This is a text data file
