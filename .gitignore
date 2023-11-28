@@ -1,7 +1,12 @@
-./build
-./bin
-./debug
+/build
+/bin
+/debug
+
 *.tmp
 *.cache
 *.txt
-!/data/*
+
+!/data/**/*.txt
+!/data/**/*.tmp
+!/data/**/*.cache
+
